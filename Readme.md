@@ -4,11 +4,12 @@
 
 Ce projet est un projet présenté par *Celtak* (*Nicely Dev* sur youtube) dans la vidéo suivante :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8rDMTf73jnk?si=BJzk1VoysDmD3gJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://i.ytimg.com/vi/8rDMTf73jnk/hqdefault.jpg)](https://youtu.be/8rDMTf73jnk?si=_IVU9WYFQz2rXoPg)
 
 Ressources : 
 - URL de la video : [https://www.youtube.com/embed/8rDMTf73jnk?si=BJzk1VoysDmD3gJv](https://www.youtube.com/embed/8rDMTf73jnk?si=BJzk1VoysDmD3gJv)
 - Lien GitHub du projet vide : [https://github.com/Celtak/compose-yml-php-node-go](https://github.com/Celtak/compose-yml-php-node-go)
+- Site web présentant le projet : [https://www.nicelydev.com/docker/compose-go-node-php](https://www.nicelydev.com/docker/compose-go-node-php)
 
 ## Présentation du projet
 
